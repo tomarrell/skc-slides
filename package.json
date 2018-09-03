@@ -1,0 +1,7 @@
+{
+  "scripts": "mdx-deck slides.mdx",
+  "dependencies": {
+    "prism": "^4.1.2",
+    "react-syntax-highlighter": "^8.0.1"
+  }
+}
