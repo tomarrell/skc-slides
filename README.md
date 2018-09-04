@@ -8,5 +8,7 @@ Covers five main concepts:
 4. CI/CD
 5. Processes
 
+Used for a talk on 04/09/2018 at SKC to year 13 computer science students.
+
 # License
 Licensed under the GNU General Public License v3.0.
